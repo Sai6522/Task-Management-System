@@ -1,4 +1,3 @@
-Certainly! Below is an example template for a README file for your Task Management System:
 
 ```markdown
 # Task Management System
